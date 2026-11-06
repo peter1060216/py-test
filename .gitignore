@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+output.json
+.vscode/
+.DS_Store
